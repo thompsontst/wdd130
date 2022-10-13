@@ -5,6 +5,8 @@
 }
 nav a {
     text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
 }
 .button-box {
     text-align: center; 
@@ -36,10 +38,15 @@ text-align: center;
         color: #d9c2a3
     }
     .book {
-        background-color: khaki
+        text-align: center;
+    color: #712191;
+    text-decoration: none;
+
         }
         .join {
-            background-color: black
+            text-align: center;
+            color: #3c13f5;
+            text-decoration: none;
             
         }
         .join:hover {
@@ -47,7 +54,7 @@ text-align: center;
            color: aquamarine; 
         }
         .book:hover {
-            background-color: blue;
+            background-color: rgb(255, 0, 43);
             color:rgb(123, 192, 169);
         }
         .msg {
@@ -65,7 +72,9 @@ text-align: center;
         color: #fcfbfb;
     }
     footer a {
-        color: rgb(163, 126, 88);
+        text-align: center;
+        color: #fcfbfb;
+        text-decoration: none;
     }
     footer a:hover {
         color:rgb(163, 126, 88);
@@ -76,6 +85,9 @@ text-align: center;
     .icon { 
         width: 80px
     }
+    .logo { 
+        width: 80px
+    }
     #hero-img {
         width: 100%
     }
@@ -84,4 +96,4 @@ text-align: center;
     } 
     footer p a:hover {
         text-decoration: underline;
-    }  
+    } 
