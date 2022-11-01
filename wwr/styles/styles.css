@@ -127,11 +127,11 @@ text-align: center;
             margin-top: 10px;
         }
         .msg {
-            background-color: rgba(20, 30, 13, .7);
+            background-color: rgba(221, 224, 219, 0.7);
             line-height: 1.5em;
             padding: 35px;
-            margin: 100px 0;
-            grid-column: 6 / 10;
+            margin: 300px 0;
+            grid-column: 5 / 10;
             grid-row: 6 / 7;
             box-shadow: 5px 5px 10px #6f7364;
         }
