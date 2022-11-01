@@ -244,11 +244,8 @@ footer {
 }
     }
     .Mountains {
-    margin-top: 200px;
-        margin-bottom: 200px;
         width: 100%;
-        margin: 200px 0;
         grid-column: 2 / 7;
-        grid-row: 6 / 8;
+        grid-row: 5 / 8;
         box-shadow: 5px 5px 10px #6f7364;
     }
