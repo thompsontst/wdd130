@@ -166,7 +166,7 @@ text-align: center;
     header {
         display: grid;
         grid-template-columns: 150px, auto;
-        background-color: rgba(20, 30, 13, .7);
+        background-color: rgba(107, 17, 17, 0.7);
 
     }
     .join, .book {
