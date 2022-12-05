@@ -132,12 +132,15 @@ margin-top: -100px;
 nav {
     display: flex;
     justify-content: space-around;
+    
 }
 nav a {
     text-align: center;
     color: #fcfbfb;
     text-decoration: none;
     padding: 35px;
+    border: #712191;
+    border-radius: 5px;
 }
 nav a:hover {
     background-color: black;
